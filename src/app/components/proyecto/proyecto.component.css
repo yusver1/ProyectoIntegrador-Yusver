@@ -1,0 +1,30 @@
+#justificar{
+  text-align: justify;
+}
+
+.row{
+  background-color: #a1b5cb;
+  padding: 20px;
+
+}
+
+.contenedor{
+  width: auto;
+}
+.parte1, .parte2{
+  display: inline-block;
+  text-align: justify;
+}
+
+
+  .foto1, .foto2{
+    width: -webkit-fill-available;
+
+  }
+
+
+
+
+
+
+
